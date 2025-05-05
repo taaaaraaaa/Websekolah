@@ -1,0 +1,12 @@
+/bina-iman/
+│
+├── index.html              → Halaman utama (frontend)
+├── daftar.php              → Proses simpan form pendaftaran
+├── admin/
+│   └── data-pendaftar.php  → Lihat data dari database
+├── css/
+│   └── style.css           → (Opsional, jika ingin custom)
+├── db/
+│   └── koneksi.php         → Koneksi database
+└── sql/
+    └── database.sql        → Struktur tabel MySQL
